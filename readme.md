@@ -72,7 +72,13 @@
 
 - [Liquid](https://shopify.github.io/liquid/) - Liquid is safe, customer-facing template language for flexible web apps.
 - [Liquid Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet) - A resource for building Shopify Themes with Liquid.
-- [Liquid template language reference](https://shopify.dev/api/liquid) - Liquid is the backbone of all Shopify themes, and is used to load dynamic content to the pages of online stores.
+- [Liquid template language reference](https://shopify.dev/docs/api/liquid) - Liquid is the backbone of all Shopify themes, and is used to load dynamic content to the pages of online stores.
+- [Shopify UI Elements Generator](https://ui-elements-generator.myshopify.com/pages/line-item-property) - Line item properties are used to collect customization information for an item added to the cart. This information can be collected from the buyer on the product page. To learn more about line item properties, see the [line_item object Liquid reference](https://shopify.dev/docs/api/liquid/objects/line_item#line_item-properties).
+- [Accessibility best practices for Shopify themes](https://shopify.dev/docs/themes/best-practices/accessibility) - When you create a theme, make design choices that help keep content accessible. An accessible theme is designed so that it can be used by everyone, including people who rely on assistive technology. Accessibility for your theme is essential to providing an inclusive experience for merchants and customers.
+- [Install Shopify CLI](https://shopify.dev/docs/themes/tools/cli/install) - This guide shows you how to install Shopify CLI on macOS, Windows, or Linux.
+- [Shopify CLI commands for themes](https://shopify.dev/docs/themes/tools/cli/commands) - This reference lists the commands that you can use to build themes with Shopify CLI.
+- [Shopify CLI for apps](https://shopify.dev/docs/apps/tools/cli) - Shopify CLI is a command-line interface tool that helps you build Shopify apps. It quickly generates Shopify apps and generates app extensions. You can also use it to automate many common development tasks.
+- [Shopify CLI commands for apps](https://shopify.dev/docs/apps/tools/cli/commands) - This reference lists the commands that you can use to build apps with Shopify CLI.
 
 ### Others
 
